@@ -1,6 +1,6 @@
 # matrixsuperinsane - indie game 
-Indie game made using python
-BOMBA DE LUZ con la tecla "B". 100 NIVELES, nunca había sido tan difícil escapar de matrix !!! TECLAS WASD O FLECHAS CURSOR, para mover, ESPACIO para disparar. ESC para salir. ATAQUE ESPECIAL: tecla CONTROL DERECHO. Le he pasado 2 antivirus por seguridad y funciona en Windows. Tecla ENTER ( RETURN ): empezar juego.
+Indie game made using python . 
+BOMBA DE LUZ con la tecla "B". 100 NIVELES, nunca había sido tan difícil escapar de matrix !!! TECLAS WASD O FLECHAS CURSOR, para mover, ESPACIO para disparar. ESC para salir. ATAQUE ESPECIAL: tecla CONTROL DERECHO. Le he pasado 2 antivirus por seguridad y funciona en Windows ( y LINUX ). Tecla ENTER ( RETURN ): empezar juego.
 
 La dificultad aumenta con cada nivel ( los enemigos se vuelven más rápidos, resistentes y hacen más daño ). Al matar un enemigo hay que recoger las partículas que deja pueden darte un escudo temporal ( SHIELD - partículas violetas ), más resistencia ( ENERGY - partículas amarillas ), alguna bomba ( BOMB - partículas azules) y algo de vida ( HEAL - partículas verdes ). Es importante aprovechar la inmunidad que da el escudo para atacar. El juego se puede acabar pero hay que aplicar estrategia y concentrarse. SUERTE !!!
 
